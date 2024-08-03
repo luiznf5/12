@@ -1,1 +1,1 @@
-# 12
+Desejo fazer um site simples sobre produtos com uma pagina eficiente que faz autorecomendaçõs sobre os produtos dentro do site de forma fácil ,com um sistema de adicionamento de fotos do produto vendido 
